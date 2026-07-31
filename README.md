@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cc228683-b533-4a50-b5bb-e2cedf06d9d4" /># 🌐 Personal Portfolio Website
+
 
 A modern, responsive, and professional portfolio website showcasing my skills, projects, certifications, education, and experience as a Java and Software Developer.
 
@@ -7,8 +7,6 @@ A modern, responsive, and professional portfolio website showcasing my skills, p
 ## 🚀 Live Demo
 
 🔗 **Portfolio:** https://saloninakat.github.io/Saloni-Portfolio/
-
-> *(Update this link after enabling GitHub Pages.)*
 
 ---
 
@@ -146,6 +144,42 @@ A Java desktop application for managing job applications with CRUD operations, i
   - Generative AI & Microsoft Copilot
   - Power BI Workshop
   - Git & GitHub Workshop
+
+
+## 📷 Screenshots
+
+
+### Home
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4d5579b8-7e6d-4718-8b79-c75056e27342" />
+
+---
+
+### About
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/14b6e643-c719-4113-8a5c-33e4e940b6ff" />
+
+
+---
+
+### Skills
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4b72e3e4-26f9-40a9-b98e-5ef8aaf5aea2" />
+
+---
+
+### Projects
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0933f39a-5018-416c-8f21-47736138665e" />
+
+
+---
+
+### Certifications
+
+![Uploading image.png…]()
+
+
+
+---
 
 ## 📥 Installation
 
