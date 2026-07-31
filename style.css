@@ -186,6 +186,7 @@ html {
             rgba(124, 92, 255, 0.10),
             transparent 35%
         );
+}
         /* Soft blue ambient glow */
 
 .hero::before {
@@ -232,7 +233,7 @@ html {
 
     z-index: 0;
 }
-}
+
 
 
 /* =========================================
