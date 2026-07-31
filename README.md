@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cc228683-b533-4a50-b5bb-e2cedf06d9d4" /># 🌐 Personal Portfolio Website
 
 A modern, responsive, and professional portfolio website showcasing my skills, projects, certifications, education, and experience as a Java and Software Developer.
 
@@ -146,46 +146,6 @@ A Java desktop application for managing job applications with CRUD operations, i
   - Generative AI & Microsoft Copilot
   - Power BI Workshop
   - Git & GitHub Workshop
-
----
-
-## 📷 Screenshots
-
-### Home
-
-*(Add screenshot here)*
-
----
-
-### About
-
-*(Add screenshot here)*
-
----
-
-### Skills
-
-*(Add screenshot here)*
-
----
-
-### Projects
-
-*(Add screenshot here)*
-
----
-
-### Certifications
-
-*(Add screenshot here)*
-
----
-
-### Contact
-
-*(Add screenshot here)*
-
----
 
 ## 📥 Installation
 
