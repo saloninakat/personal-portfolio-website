@@ -175,7 +175,8 @@ A Java desktop application for managing job applications with CRUD operations, i
 
 ### Certifications
 
-![Uploading image.png…]()
+<img width="1777" height="2329" alt="image" src="https://github.com/user-attachments/assets/fd7fa39e-65d4-459a-9701-9e7745c184a2" />
+
 
 
 
