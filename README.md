@@ -156,19 +156,20 @@ A Java desktop application for managing job applications with CRUD operations, i
 
 ### About
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/14b6e643-c719-4113-8a5c-33e4e940b6ff" />
+<img width="1701" height="975" alt="image" src="https://github.com/user-attachments/assets/a66bc734-9cd8-4345-bc7f-d441924e610e" />
 
 
 ---
 
 ### Skills
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4b72e3e4-26f9-40a9-b98e-5ef8aaf5aea2" />
+<img width="1538" height="1324" alt="image" src="https://github.com/user-attachments/assets/07b4dffa-4d64-414d-9f44-30a293e87067" />
+
 
 ---
 
 ### Projects
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0933f39a-5018-416c-8f21-47736138665e" />
+<img width="1625" height="2809" alt="image" src="https://github.com/user-attachments/assets/e61d4653-204e-4469-8726-ed5593a3eff4" />
 
 
 ---
