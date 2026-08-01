@@ -2496,11 +2496,9 @@ CERTIFICATIONS
 
 }
 
-.certifications-grid {
-
-    max-width: 900px;
-    margin: auto;
-
+.certifications-grid{
+    max-width:800px;
+    margin:auto;
 }
 
 .certificate-card {
@@ -2616,25 +2614,51 @@ CERTIFICATIONS
 
 }
 
-@media(max-width:768px) {
+@media (max-width:768px) {
 
-    .certificate-card {
+    .certificate-card{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
 
-        background: rgba(20, 25, 45, .55);
-
-        border: 1px solid rgba(255, 255, 255, .08);
-
-        border-radius: 18px;
-
-        padding: 30px;
-
+        padding: 25px;
+        gap: 20px;
         margin-bottom: 35px;
-        /* Space between certificate cards */
-
-        transition: .35s;
-
     }
 
+    .certificate-icon{
+        width: 70px;
+        height: 70px;
+        font-size: 28px;
+    }
+
+    .certificate-content{
+        width: 100%;
+    }
+
+    .certificate-content h3{
+        font-size: 24px;
+        line-height: 1.4;
+    }
+
+    .certificate-content h4{
+        font-size: 16px;
+    }
+
+    .certificate-content p{
+        font-size: 15px;
+        line-height: 1.8;
+    }
+
+    .workshop-item{
+        text-align: left;
+    }
+
+    .certificate-btn{
+        width: 100%;
+        text-align: center;
+    }
 }
 
 /* Microsoft Workshops */
