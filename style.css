@@ -1932,15 +1932,11 @@ CONTACT
 
 }
 
-.contact-grid {
+.contact-form{
 
-    display: grid;
+    max-width:700px;
 
-    grid-template-columns: 1fr 1fr;
-
-    gap: 60px;
-
-    align-items: start;
+    margin:auto;
 
 }
 
